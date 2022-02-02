@@ -6,5 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
+  url = 'https://img.pokemondb.net/artwork/large/dragonite.jpg';
   title = 'pokemonshiny';
 }
